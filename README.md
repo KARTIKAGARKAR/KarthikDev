@@ -63,13 +63,7 @@ Welcome to my GitHub! I'm **Kartik Agarkar**, a passionate full-stack developer 
 
 ---
 
-## 🌐 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAGARKAR&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARTIKAGARKAR&show_icons=true&theme=radical)
-
 <!-- Optional streak stats -->
 <!--
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARTIKAGARKAR&theme=radical)
 -->
