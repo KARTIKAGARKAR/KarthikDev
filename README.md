@@ -6,13 +6,13 @@ Welcome to my GitHub! I'm **Kartik Agarkar**, a passionate full-stack developer 
 👉 [https://prathamesh-kasar-portfolio.vercel.app](https://prathamesh-kasar-portfolio.vercel.app)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=KARTIKAGARKAR&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 🌟 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=01Prathamesh&theme=algolia&v=999)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KARTIKAGARKAR&theme=algolia&v=999)
 
 ---
 
@@ -56,20 +56,18 @@ Welcome to my GitHub! I'm **Kartik Agarkar**, a passionate full-stack developer 
 
 ## 👥 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01Prathamesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-kasar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PrathameshCode)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathameshKasar_work)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshkasar.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KARTIKAGARKAR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-agarkar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikagarkar3@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10g37XH8jW_r1LDPTVknxTCrHV6pbJlW6/view?usp=sharing)
 
 ---
 
 ## 🌐 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Prathamesh&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKAGARKAR&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARTIKAGARKAR&show_icons=true&theme=radical)
 
 <!-- Optional streak stats -->
 <!--
