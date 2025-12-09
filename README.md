@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm **Kartik Agarkar**, a passionate full-stack developer who loves solving real-world problems using powerful backend technologies.
 
 🌐 **Portfolio**:  Checkout my personal website with all project demos, skills, and interactive UI:  
-👉 [https://prathamesh-kasar-portfolio.vercel.app](https://prathamesh-kasar-portfolio.vercel.app)
+👉 [https://Kartik-Agarkar-portfolio.vercel.app](https://prathamesh-kasar-portfolio.vercel.app)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KARTIKAGARKAR&label=Profile%20views&color=0e75b6&style=flat)
